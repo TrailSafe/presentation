@@ -1,21 +1,35 @@
 !SLIDE title
 
-# What we built
-
-!SLIDE title
-
 # Where else could this go?
 
-!SLIDE title
+!SLIDE
 
-# Arcgis Esri
+![app](images/screen_shots/TS6-Location.png)
 
-!SLIDE title
+!SLIDE title columns
 
-# Open Colorado
+## Arcgis Esri
 
-* for Trail Maps
+Define Drawable Maps
 
-!SLIDE title
+## Open Colorado
 
-# Full Contact and Alchemy
+Overlay Trail Maps
+
+!SLIDE
+
+![app](images/screen_shots/TS10-HelpOthers.png)
+
+!SLIDE
+
+![app](images/screen_shots/TS11-OthersDetails.png)
+
+!SLIDE title columns
+
+## Full Contact
+
+Integration with Twitter
+
+## Alchemy
+
+Possibly Determine Their Well Being

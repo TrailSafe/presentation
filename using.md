@@ -1,66 +1,68 @@
 !SLIDE
 
-# Who we are
-
-* a picture
-* name
-* one or two word title
-
-!SLIDE title
-
-# What did we build?
+![team](images/team.png)
 
 !SLIDE
 
-# Trail Safe
+![app](images/screen_shots/TS1-Home.png)
 
-* Splash Screen
-* An app for trailblazers
+!SLIDE
 
+![app](images/screen_shots/TS2-Info.png)
+
+!SLIDE
+
+![app](images/screen_shots/TS3-ICE.png)
+
+!SLIDE
+
+![app](images/screen_shots/TS7-ReturnTime.png)
+
+!SLIDE
+
+![app](images/screen_shots/TS8-HikeInProgress.png)
+
+!SLIDE title columns
+
+## 10 minutes
+
+Notify You via SMS
+
+## &nbsp;
+
+## &nbsp;
+
+!SLIDE title columns
+
+## 10 minutes
+
+Notify You via SMS
+
+## 1 hour
+
+Notify your ICE
+
+## &nbsp;
+
+
+!SLIDE title columns
+
+## 10 minutes
+
+Notify You via SMS
+
+## 1 hour
+
+Notify your ICE
+
+## 2 hours
+
+Notify the Park Rangers
 
 !SLIDE title
 
-# Initial Signup
+# YETI
 
-!SLIDE title
+!SLIDE
 
-# ICE
-
-!SLIDE title
-
-# Set a time and Go on a hike
-
-* Countdown
-
-!SLIDE title
-
-# Yeti'd
-
-!SLIDE title
-
-* Time Based
-
-!SLIDE title
-
-# 1. Notify You via SMS
-
-!SLIDE title
-
-# 2. Notify Your Emergency Contact
-
-!SLIDE title
-
-# 3. Notify the Park Rangers
-
-!SLIDE title
-
-# 4. Other Trailblazers in the area
-
-!SLIDE title
-
-
-# Notification Includes
-
-* Where you started
-* Where you were headed
-* Where you were
+![app](images/screen_shots/TS9-HELP.png)
