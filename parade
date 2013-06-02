@@ -1,0 +1,18 @@
+title "Trail Safe"
+theme "merlot"
+
+description "Explore Safely"
+
+section "Introduction" do
+  slides "intro.md"
+  slides "stats.md"
+end
+
+section "Using the Application" do
+  slides "using.md"
+  slides "technical.md"
+end
+
+section "Further Work" do
+  slides "further.md"
+end
