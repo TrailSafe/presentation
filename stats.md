@@ -2,15 +2,20 @@
 
 # Trail Cards
 
-!SLIDE title
+!SLIDE title transition=scrollUp
 
-# Numbers of lost people
+# $ 3,660,760
 
-* Dollars 3,660,760
-* 6,037 fatality, illness or injury (avg)
-* 1,016 saved (avg)
+average Search and Rescue cost each year
 
-* Dead Men Walking: Search and Rescue in US
-National Parks
+!SLIDE title transition=scrollUp
 
-* Finding someone as fast as possible
+# 6,037
+
+fatality, illness or injury (avg)
+
+!SLIDE title transition=scrollUp
+
+# 1,016
+
+saved

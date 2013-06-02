@@ -2,34 +2,34 @@
 
 # Where else could this go?
 
-!SLIDE
+!SLIDE transition=scrollLeft
 
 ![app](images/screen_shots/TS6-Location.png)
 
-!SLIDE title columns
+!SLIDE title columns transition=scrollUp
 
-## Arcgis Esri
+## ArcGIS Esri
 
-Define Drawable Maps
+### Define Drawable Maps
 
 ## Open Colorado
 
-Overlay Trail Maps
+### Overlay Trail Maps
 
-!SLIDE
+!SLIDE transition=scrollLeft
 
 ![app](images/screen_shots/TS10-HelpOthers.png)
 
-!SLIDE
+!SLIDE transition=scrollLeft
 
 ![app](images/screen_shots/TS11-OthersDetails.png)
 
-!SLIDE title columns
+!SLIDE title columns transition=scrollUp
 
 ## Full Contact
 
-Integration with Twitter
+### Integration with Twitter
 
 ## Alchemy
 
-Possibly Determine Their Well Being
+### Possibly Determine Their Well Being
